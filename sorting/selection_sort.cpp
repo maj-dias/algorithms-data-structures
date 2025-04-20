@@ -1,6 +1,6 @@
 // =================================================================================================
 // C++ Implementation of Selection Sort
-// Author: Matheus José Oliveira dos Santos
+// Author: Matheus José Oliveira dos Santos Dias
 // Based on: https://joaoarthurbm.github.io/eda/posts/selection-sort/ acessed on 01/09/2022
 // =================================================================================================
 

@@ -1,6 +1,6 @@
 # =================================================================================================
 # Python Implementation of Max Heap
-# Author: Matheus José Oliveira dos Santos
+# Author: Matheus José Oliveira dos Santos Dias
 # =================================================================================================
 
 class max_heap:
